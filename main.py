@@ -49,7 +49,7 @@ async def cmd_tagall(event: Message):
 async def cmd_start(event):
     await event.reply(
         'Прив, я бот, тегающий всех участников чата\n'
-        'Не спамящий в чат, быстрый и [опенсорсный](llistochek.ml)\n'
+        'Не спамящий в чат, быстрый и [опенсорсный](https://github.com/llistochek/open-tagall-bot)\n'
         'Чтобы начать меня использовать просто добавь меня в группу и напиши /tagall. '
         'Также, если ты хочешь чтобы все обратили внимание на сообщение, ответь на него командой /tagall\n\n'
         'Автор:\n'
